@@ -6,4 +6,4 @@ This is a change
 
 Foo bar, xyzzy 123
 
-Jogging is fun
+Jogging is fun. And sun shines!
